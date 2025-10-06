@@ -1,11 +1,10 @@
 import React from "react";
 import { Button } from "@/components/ui/button";
 import styled from "styled-components";
-import { useNavigate, useLocation } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 
 const Header: React.FC = () => {
   const navigate = useNavigate();
-  const location = useLocation();
 
   const handleGoHome = () => {
     navigate("/");
