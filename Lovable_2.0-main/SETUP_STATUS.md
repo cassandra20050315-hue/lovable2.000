@@ -1,4 +1,4 @@
-# Lovable 2.0 - Setup Complete! 🎉
+# Jibi - Setup Complete! 🎉
 
 ## ✅ What's Already Working
 
@@ -56,4 +56,4 @@ Without the Beam backend, you'll see the UI but won't be able to create AI-gener
 2. Backend changes: Edit `src/agent.py` and redeploy with `beam serve`
 3. AI prompt changes: Edit `baml_src/build.baml` and run `make generate`
 
-Enjoy building with Lovable 2.0! 🎨
+Enjoy building with Jibi! 🎨

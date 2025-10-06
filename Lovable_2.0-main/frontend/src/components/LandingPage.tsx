@@ -13,7 +13,7 @@ const LandingPage: React.FC<LandingPageProps> = ({ onGetStarted }) => {
       <Hero>
         <LogoSection>
           <Logo>✨</Logo>
-          <Title>Lovable 2.0</Title>
+          <Title>Jibi</Title>
           <Tagline>Next-Generation AI Web Builder</Tagline>
         </LogoSection>
         
@@ -42,7 +42,7 @@ const LandingPage: React.FC<LandingPageProps> = ({ onGetStarted }) => {
 
         <CTASection>
           <GetStartedButton onClick={onGetStarted}>
-            Enter Lovable 2.0
+            Enter Jibi
           </GetStartedButton>
           <Subtitle>Where innovation meets elegance</Subtitle>
         </CTASection>

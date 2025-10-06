@@ -20,7 +20,7 @@ const Header: React.FC = () => {
     <HeaderContainer>
       <Left>
         <Logo onClick={handleGoHome}>
-          ✨ Lovable 2.0
+          ✨ Jibi
         </Logo>
       </Left>
       <Right>

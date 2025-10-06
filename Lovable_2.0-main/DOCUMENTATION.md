@@ -1,8 +1,8 @@
-# 📖 Lovable 2.0 - Complete Project Documentation
+# 📖 Jibi - Complete Project Documentation
 
 ## 🎯 **Project Overview**
 
-Lovable 2.0 represents a quantum leap in web development tooling, combining the power of artificial intelligence with elegant design to create a platform where ideas transform into reality through natural language.
+Jibi represents a quantum leap in web development tooling, combining the power of artificial intelligence with elegant design to create a platform where ideas transform into reality through natural language.
 
 ---
 
@@ -99,8 +99,8 @@ User Input → AI Processing → Code Generation → Live Preview → User Feedb
 1. **Environment Setup**
    ```bash
    # Clone the repository
-   git clone https://github.com/RajPrakash681/Lovable_2.0
-   cd Lovable2.0
+   git clone https://github.com/RajPrakash681/Jibi
+   cd Jibi
    
    # Install dependencies
    npm install

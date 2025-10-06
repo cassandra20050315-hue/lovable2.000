@@ -59,10 +59,10 @@ const AuthModal: React.FC<AuthModalProps> = ({ onClose, onSuccess }) => {
         
         <Header>
           <Logo>✨</Logo>
-          <Title>{isSignUp ? "Welcome to Lovable 2.0" : "Welcome Back"}</Title>
+          <Title>{isSignUp ? "Welcome to Jibi" : "Welcome Back"}</Title>
           <Subtitle>
-            {isSignUp 
-              ? "Join the future of elegant web development" 
+            {isSignUp
+              ? "Join the future of elegant web development"
               : "Continue your journey with sophisticated AI"}
           </Subtitle>
         </Header>

@@ -35,7 +35,7 @@ const NewScreen: React.FC = () => {
         <CenterColumn className="flex flex-col gap-16 flex-1">
         <LogoTitleGroup className="flex flex-col gap-2">
           <LogoEmoji>✨</LogoEmoji>
-          <h1 className="text-4xl font-light">Lovable 2.0</h1>
+          <h1 className="text-4xl font-light">Jibi</h1>
           <WelcomeMessage className="text-lg font-medium">Welcome back. Let's create something extraordinary.</WelcomeMessage>
           <h2 className="text-2xl font-light">What would you like to build?</h2>
           <p className="text-lg font-light opacity-70">

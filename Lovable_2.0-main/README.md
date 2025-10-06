@@ -1,22 +1,22 @@
-# ✨ Lovable 2.0 - Where Innovation Meets Elegance
+# ✨ Jibi - Where Innovation Meets Elegance
 
 > **Transform your wildest ideas into stunning web applications using nothing but natural language. Experience the future of development today.**
 
 
- 
 
-[![Made with Love](https://img.shields.io/badge/Made%20with-💖-red.svg)](https://github.com/RajPrakash681/Lovable2.0)
+
+[![Made with Love](https://img.shields.io/badge/Made%20with-💖-red.svg)](https://jibi.dev)
 [![AI Powered](https://img.shields.io/badge/AI-Powered-blue.svg)](https://openai.com)
-[![Next Gen](https://img.shields.io/badge/Next-Generation-purple.svg)](https://github.com/RajPrakash681/Lovable2.0)
-[![Elegant Design](https://img.shields.io/badge/Design-Elegant-gold.svg)](https://github.com/RajPrakash681/Lovable2.0)
+[![Next Gen](https://img.shields.io/badge/Next-Generation-purple.svg)](https://jibi.dev)
+[![Elegant Design](https://img.shields.io/badge/Design-Elegant-gold.svg)](https://jibi.dev)
 
 </div>
 
 ---
 
-## 🚀 **The Magic Behind Lovable 2.0**
+## 🚀 **The Magic Behind Jibi**
 
-**Lovable 2.0** isn't just another web builder - it's a revolutionary platform that bridges the gap between human creativity and artificial intelligence. Imagine describing your dream application in plain English and watching it materialize before your eyes, pixel by pixel, component by component.
+**Jibi** isn't just another web builder - it's a revolutionary platform that bridges the gap between human creativity and artificial intelligence. Imagine describing your dream application in plain English and watching it materialize before your eyes, pixel by pixel, component by component.
 
 ### 🧠 **How The AI Magic Works**
 
@@ -40,7 +40,7 @@ graph LR
 
 ### 🌟 **What I Discovered Building This**
 
-Creating Lovable 2.0 has been an incredible journey of discovery, innovation, and growth. Here's what made this project truly special:
+Creating Jibi has been an incredible journey of discovery, innovation, and growth. Here's what made this project truly special:
 
 #### 🔥 **Technical Mastery Gained**
 
@@ -99,7 +99,7 @@ Creating Lovable 2.0 has been an incredible journey of discovery, innovation, an
 
 ### 🖤 **The Black Theme Revolution**
 
-Lovable 2.0's design isn't just about aesthetics - it's about creating an environment where creativity flourishes:
+Jibi's design isn't just about aesthetics - it's about creating an environment where creativity flourishes:
 
 - **🌑 Deep Black Canvas** (`#0a0a0a`): Reduces eye strain during long coding sessions
 - **✨ Subtle Gradients**: Creates depth without overwhelming the user
@@ -129,8 +129,8 @@ Lovable 2.0's design isn't just about aesthetics - it's about creating an enviro
 
 ```bash
 # Get the magic ✨
-git clone https://github.com/RajPrakash681/Lovable_2.0
-cd Lovable_2.0
+git clone https://github.com/RajPrakash681/Jibi
+cd Jibi
 
 # Install Python dependencies 🐍
 pip install -r requirements.txt
@@ -148,8 +148,8 @@ npm run dev
 ### 🎮 **Usage**
 
 1. **🌟 Visit the Landing Page** - Experience the elegant dark theme
-2. **🔐 Sign In/Sign Up** - Create your account with our sophisticated auth flow  
-3. **💭 Describe Your Vision** - Tell Lovable 2.0 what you want to build
+2. **🔐 Sign In/Sign Up** - Create your account with our sophisticated auth flow
+3. **💭 Describe Your Vision** - Tell Jibi what you want to build
 4. **⚡ Watch the Magic** - See your application come to life in real-time
 5. **🔄 Iterate and Refine** - Continuously improve with natural language commands
 
@@ -177,16 +177,16 @@ This project demonstrates the future of software development where:
 
 ## 🤝 **Contributing to the Future**
 
-Love what you see? Help make Lovable 2.0 even more amazing!
+Love what you see? Help make Jibi even more amazing!
 
 ```bash
 # Fork the repository
-git fork https://github.com/RajPrakash681/Lovable_2.0
+git fork https://github.com/RajPrakash681/Jibi
 
 # Create your feature branch
 git checkout -b feature/AmazingFeature
 
-# Commit your changes  
+# Commit your changes
 git commit -m 'Add some AmazingFeature'
 
 # Push to the branch
@@ -212,7 +212,7 @@ git push origin feature/AmazingFeature
 
 ### ✨ **Built with Passion, Powered by AI, Designed for the Future** ✨
 
-  **[📚 Documentation](https://docs.lovable2.0)** | **[🐛 Report Bug](https://github.com/RajPrakash681/Lovable2.0/issues)** | **[💡 Request Feature](https://github.com/RajPrakash681/Lovable2.0/issues)**
+  **[📚 Documentation](https://docs.jibi.dev)** | **[🐛 Report Bug](https://github.com/RajPrakash681/Jibi/issues)** | **[💡 Request Feature](https://github.com/RajPrakash681/Jibi/issues)**
 
 ---
 
